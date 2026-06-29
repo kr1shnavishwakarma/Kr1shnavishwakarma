@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./avatar-circle.svg" width="90" height="90"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm KRISHNA R VISHWAKARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
