@@ -1,6 +1,6 @@
 <img src="https://github.com/kr1shnavishwakarma/kv8900830-design/blob/94b37146fc75e4902c5d359b1efb37aefd30f1fc/example-2.png">
 
-# kr1
+# kr1 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
@@ -13,7 +13,7 @@
   <img src="./avatar-circle.svg" width="90" height="90"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm KRISHNA R VISHWAKARMA</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm KRISHNA R VISHWAKARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
