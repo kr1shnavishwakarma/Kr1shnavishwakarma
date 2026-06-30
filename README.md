@@ -55,9 +55,12 @@
   />
 </picture>
 
-<p align="center">
-  <img src="./contrib.svg" alt="2025 GitHub Contributions" height="150" width="150%"/>
-</p>
+# gh-space-shooter 🚀
+
+Transform your GitHub contribution graph into an epic space shooter game! 
+
+![Example Game](example.gif)
+
 
 
 <h3 align="left">Main Collectibles of Language and codes:</h3>
