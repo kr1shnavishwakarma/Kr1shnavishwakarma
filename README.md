@@ -55,11 +55,12 @@
   />
 </picture>
 
-# gh-space-shooter 🚀
-
 Transform your GitHub contribution graph into an epic space shooter game! 
 
 ![Example Game](example.gif)
+
+<a>
+<img src"https://github.com/kr1shnavishwakarma/Kr1shnavishwakarma/blob/92bb1c5a3f3c78650d12165855e00cf8d98c1174/example.gif"><a>
 
 
 
