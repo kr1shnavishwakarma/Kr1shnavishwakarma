@@ -71,6 +71,17 @@ Transform your GitHub contribution graph into an epic space shooter game!
 ## PageSpeed Insights
 ![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 
+
+### Recent Activities
+
+<p align="left">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a> -->
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yutkat&theme=transparent" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://streak-stats.demolab.com/?user=yutkat&theme=transparent&hide_border=true" /></a>
+</p>
+
+
+
 ## Tech Used
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
